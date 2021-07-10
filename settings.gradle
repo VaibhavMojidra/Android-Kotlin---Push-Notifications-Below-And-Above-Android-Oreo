@@ -1,0 +1,2 @@
+rootProject.name = "Push Notification Demo Kotlin"
+include ':app'
